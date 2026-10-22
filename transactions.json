@@ -1,5 +1,5 @@
 {
-  "generatedAt" : "2026-10-22T17:21:17Z",
+  "generatedAt" : "2026-10-22T17:21:29Z",
   "payments" : [
     {
       "additionalMessages" : [
@@ -59,7 +59,7 @@
       "currency" : "INR",
       "instrument" : "UPI · A/c ••006",
       "isManual" : false,
-      "merchant" : "Sudarshan R",
+      "merchant" : "Ola",
       "messageHash" : "dcbed08e7716626f13de55731e204b409c2286e4d10368b47a89c815de68e95d",
       "netClaimable" : 198,
       "notes" : "",
@@ -67,26 +67,7 @@
       "parseConfidence" : 1,
       "rawMessage" : "ICICIT-S\nICICI Bank Acct XX006 debited for Rs 198.00 on 21-Oct-26; SUDARSHAN R credited. UPI:629418183421. Call 18002662 for dispute. SMS BLOCK 006 to 9215676766.",
       "receipts" : [
-        {
-          "addedAt" : "2026-10-22T14:28:34Z",
-          "filename" : "CRN11457866363.pdf",
-          "isPDF" : true,
-          "ocrTotal" : 916383282637,
-          "verification" : {
-            "amount" : "mismatch",
-            "merchant" : "mismatch",
-            "note" : "",
-            "overridden" : false,
-            "parsedCurrency" : "INR",
-            "parsedDate" : "2026-10-21",
-            "parsedMerchant" : "Ola",
-            "parsedTotal" : 3,
-            "source" : "online",
-            "status" : "warning",
-            "summary" : "Invoice total ₹3 vs payment ₹198; invoice from Ola vs payment to Sudarshan R",
-            "time" : "match"
-          }
-        }
+
       ],
       "receivedAt" : "2026-10-21T17:24:46Z",
       "reference" : "629418183421",
