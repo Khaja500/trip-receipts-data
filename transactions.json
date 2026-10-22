@@ -1,5 +1,5 @@
 {
-  "generatedAt" : "2026-10-22T07:45:35Z",
+  "generatedAt" : "2026-10-22T11:20:11Z",
   "payments" : [
     {
       "additionalMessages" : [
@@ -49,7 +49,12 @@
       "parseConfidence" : 1,
       "rawMessage" : "ICICIT-S\nICICI Bank Acct XX006 debited for Rs 70.00 on 21-Oct-26; ROCKY KUMAR credited. UPI:629458169865. Call 18002662 for dispute. SMS BLOCK 006 to 9215676766.",
       "receipts" : [
-
+        {
+          "addedAt" : "2026-10-22T11:20:09Z",
+          "filename" : "photo.jpg",
+          "isPDF" : false,
+          "ocrTotal" : 11457866363
+        }
       ],
       "receivedAt" : "2026-10-21T13:25:35Z",
       "reference" : "629458169865",
