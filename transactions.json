@@ -1,5 +1,5 @@
 {
-  "generatedAt" : "2026-10-22T14:28:36Z",
+  "generatedAt" : "2026-10-22T14:29:11Z",
   "payments" : [
     {
       "additionalMessages" : [
@@ -56,7 +56,7 @@
       ],
       "amount" : 198,
       "bank" : "ICICI Bank",
-      "category" : "other",
+      "category" : "cab",
       "claimableAmount" : 198,
       "currency" : "INR",
       "instrument" : "UPI · A/c ••006",
