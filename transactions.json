@@ -1,5 +1,5 @@
 {
-  "generatedAt" : "2026-10-22T11:20:46Z",
+  "generatedAt" : "2026-10-22T11:26:38Z",
   "payments" : [
     {
       "additionalMessages" : [
@@ -28,6 +28,7 @@
       "reviewedAt" : "2026-10-21T17:25:38Z",
       "sender" : "",
       "status" : "work",
+      "tripID" : "1792668396553",
       "uid" : "0FEA8DE1-657E-4322-90FE-B05075375D3A"
     },
     {
@@ -68,6 +69,7 @@
       "reviewedAt" : "2026-10-21T13:25:59Z",
       "sender" : "",
       "status" : "work",
+      "tripID" : "1792668396553",
       "uid" : "47880349-EEEA-44B7-BFF1-FBFC0F46CEEA"
     },
     {
@@ -155,11 +157,21 @@
       "reviewedAt" : "2026-10-21T13:15:15Z",
       "sender" : "AD-HDFCBK",
       "status" : "work",
+      "tripID" : "1792668396553",
       "uid" : "2BFE8263-810C-4D45-A4EF-49A065E59994"
     }
   ],
   "schema" : 1,
   "trips" : [
-
+    {
+      "client" : "",
+      "costCentre" : "",
+      "destination" : "",
+      "endDate" : "2026-10-22T11:26:17Z",
+      "id" : "1792668396553",
+      "name" : "Work",
+      "purpose" : "",
+      "startDate" : "2026-10-09T11:26:00Z"
+    }
   ]
 }
