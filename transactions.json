@@ -1,5 +1,5 @@
 {
-  "generatedAt" : "2026-10-22T14:29:11Z",
+  "generatedAt" : "2026-10-22T17:20:59Z",
   "payments" : [
     {
       "additionalMessages" : [
@@ -20,26 +20,7 @@
       "parseConfidence" : 1,
       "rawMessage" : "Sent Rs.773.00 From HDFC Bank A/C x1234 To UBER INDIA On 22/10/26 Ref 566231692295 Not You? Call 18002586161",
       "receipts" : [
-        {
-          "addedAt" : "2026-10-22T13:18:33Z",
-          "filename" : "CRN11457866363.pdf",
-          "isPDF" : true,
-          "ocrTotal" : 916383282637,
-          "verification" : {
-            "amount" : "mismatch",
-            "merchant" : "mismatch",
-            "note" : "",
-            "overridden" : false,
-            "parsedCurrency" : "INR",
-            "parsedDate" : "2026-10-21",
-            "parsedMerchant" : "Ola",
-            "parsedTotal" : 3,
-            "source" : "online",
-            "status" : "warning",
-            "summary" : "Invoice total ₹3 vs payment ₹773; invoice from Ola vs payment to Uber India",
-            "time" : "close"
-          }
-        }
+
       ],
       "receivedAt" : "2026-10-22T13:17:09Z",
       "reference" : "566231692295",
