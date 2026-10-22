@@ -507,7 +507,7 @@
       "uid": "00000000-0000-0000-0000-0000A11CE011"
     }
   ],
-  "schema": 1,
+  "schema": 1 ,
   "trips": [
     {
       "client": "Acme Logistics",
