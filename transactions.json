@@ -1,5 +1,5 @@
 {
-  "generatedAt" : "2026-10-22T11:20:11Z",
+  "generatedAt" : "2026-10-22T11:20:46Z",
   "payments" : [
     {
       "additionalMessages" : [
@@ -54,6 +54,12 @@
           "filename" : "photo.jpg",
           "isPDF" : false,
           "ocrTotal" : 11457866363
+        },
+        {
+          "addedAt" : "2026-10-22T11:20:44Z",
+          "filename" : "CRN11457866363.pdf",
+          "isPDF" : true,
+          "ocrTotal" : 916383282637
         }
       ],
       "receivedAt" : "2026-10-21T13:25:35Z",
