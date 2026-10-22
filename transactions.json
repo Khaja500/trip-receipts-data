@@ -1,5 +1,5 @@
 {
-  "generatedAt" : "2026-10-22T14:28:07Z",
+  "generatedAt" : "2026-10-22T14:28:10Z",
   "payments" : [
     {
       "additionalMessages" : [
@@ -101,7 +101,21 @@
           "addedAt" : "2026-10-22T11:20:44Z",
           "filename" : "CRN11457866363.pdf",
           "isPDF" : true,
-          "ocrTotal" : 916383282637
+          "ocrTotal" : 916383282637,
+          "verification" : {
+            "amount" : "mismatch",
+            "merchant" : "mismatch",
+            "note" : "",
+            "overridden" : false,
+            "parsedCurrency" : "INR",
+            "parsedDate" : "2026-10-21",
+            "parsedMerchant" : "Ola",
+            "parsedTotal" : 3,
+            "source" : "online",
+            "status" : "warning",
+            "summary" : "Invoice total ₹3 vs payment ₹70; invoice from Ola vs payment to Rocky Kumar",
+            "time" : "match"
+          }
         }
       ],
       "receivedAt" : "2026-10-21T13:25:35Z",
