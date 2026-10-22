@@ -1,5 +1,5 @@
 {
-  "generatedAt" : "2026-10-22T14:28:10Z",
+  "generatedAt" : "2026-10-22T14:28:24Z",
   "payments" : [
     {
       "additionalMessages" : [
@@ -27,15 +27,17 @@
           "ocrTotal" : 916383282637,
           "verification" : {
             "amount" : "mismatch",
-            "fallbackReason" : "No parser server is set in Setup.",
-            "merchant" : "unread",
+            "merchant" : "mismatch",
             "note" : "",
             "overridden" : false,
-            "parsedTotal" : 916383282637,
-            "source" : "on-device",
-            "status" : "unverified",
-            "summary" : "Invoice total ₹9,16,38,32,82,637 vs payment ₹773",
-            "time" : "unread"
+            "parsedCurrency" : "INR",
+            "parsedDate" : "2026-10-21",
+            "parsedMerchant" : "Ola",
+            "parsedTotal" : 3,
+            "source" : "online",
+            "status" : "warning",
+            "summary" : "Invoice total ₹3 vs payment ₹773; invoice from Ola vs payment to Uber India",
+            "time" : "close"
           }
         }
       ],
