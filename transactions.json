@@ -1,5 +1,5 @@
 {
-  "generatedAt" : "2026-10-23T13:59:49Z",
+  "generatedAt" : "2026-10-23T14:00:32Z",
   "payments" : [
     {
       "additionalMessages" : [
@@ -78,7 +78,24 @@
       "parseConfidence" : 1,
       "rawMessage" : "ICICIT-S\nICICI Bank Acct XX006 debited for Rs 203.07 on 23-Oct-26; Zomato credited. UPI:629625313153. Call 18002662 for dispute. SMS BLOCK 006 to 9215676766.",
       "receipts" : [
-
+        {
+          "addedAt" : "2026-10-23T14:00:30Z",
+          "filename" : "Invoice_8753666361.pdf",
+          "isPDF" : true,
+          "ocrTotal" : 8753666361,
+          "verification" : {
+            "amount" : "mismatch",
+            "fallbackReason" : "The parser took longer than 10 seconds.",
+            "merchant" : "unread",
+            "note" : "",
+            "overridden" : false,
+            "parsedTotal" : 8753666361,
+            "source" : "on-device",
+            "status" : "unverified",
+            "summary" : "Invoice total ₹8,75,36,66,361 vs payment ₹203.07",
+            "time" : "unread"
+          }
+        }
       ],
       "receivedAt" : "2026-10-23T09:54:22Z",
       "reference" : "629625313153",
