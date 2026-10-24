@@ -1,5 +1,5 @@
 {
-  "generatedAt" : "2026-10-24T07:27:58Z",
+  "generatedAt" : "2026-10-24T07:50:34Z",
   "payments" : [
     {
       "additionalMessages" : [
@@ -106,7 +106,6 @@
       "reviewedAt" : "2026-10-23T13:59:46Z",
       "sender" : "",
       "status" : "work",
-      "tripID" : "1792668396553",
       "uid" : "017F3B56-7261-406A-964E-A0B034E8EE88"
     },
     {
