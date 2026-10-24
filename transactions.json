@@ -1,5 +1,5 @@
 {
-  "generatedAt" : "2026-10-24T07:50:34Z",
+  "generatedAt" : "2026-10-24T07:52:20Z",
   "payments" : [
     {
       "additionalMessages" : [
@@ -106,6 +106,7 @@
       "reviewedAt" : "2026-10-23T13:59:46Z",
       "sender" : "",
       "status" : "work",
+      "tripID" : "1792828338867",
       "uid" : "017F3B56-7261-406A-964E-A0B034E8EE88"
     },
     {
@@ -341,6 +342,16 @@
   ],
   "schema" : 1,
   "trips" : [
+    {
+      "client" : "",
+      "costCentre" : "",
+      "destination" : "",
+      "endDate" : "2026-10-27T07:51:00Z",
+      "id" : "1792828338867",
+      "name" : "Conference",
+      "purpose" : "",
+      "startDate" : "2026-10-23T07:51:00Z"
+    },
     {
       "client" : "",
       "costCentre" : "",
