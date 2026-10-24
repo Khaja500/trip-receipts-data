@@ -1,5 +1,5 @@
 {
-  "generatedAt" : "2026-10-24T04:41:57Z",
+  "generatedAt" : "2026-10-24T04:43:00Z",
   "payments" : [
     {
       "additionalMessages" : [
@@ -331,8 +331,9 @@
       "receivedAt" : "2026-10-18T12:10:38Z",
       "reference" : "228956525477",
       "refundedAmount" : 0,
+      "reviewedAt" : "2026-10-24T04:42:58Z",
       "sender" : "AD-HDFCBK",
-      "status" : "pending",
+      "status" : "personal",
       "uid" : "2BFE8263-810C-4D45-A4EF-49A065E59994"
     }
   ],
