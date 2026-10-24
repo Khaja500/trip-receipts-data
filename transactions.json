@@ -1,5 +1,5 @@
 {
-  "generatedAt" : "2026-10-24T05:04:32Z",
+  "generatedAt" : "2026-10-24T05:05:18Z",
   "payments" : [
     {
       "additionalMessages" : [
@@ -176,20 +176,20 @@
       "rawMessage" : "ICICIT-S\nICICI Bank Acct XX006 debited for Rs 198.00 on 21-Oct-26; SUDARSHAN R credited. UPI:629418183421. Call 18002662 for dispute. SMS BLOCK 006 to 9215676766.",
       "receipts" : [
         {
-          "addedAt" : "2026-10-22T17:25:18Z",
-          "filename" : "CRN11457866363 2.pdf",
-          "isPDF" : true,
-          "ocrTotal" : 916383282637,
+          "addedAt" : "2026-10-24T05:05:15Z",
+          "filename" : "photo.jpg",
+          "isPDF" : false,
+          "ocrTotal" : 11457866363,
           "verification" : {
             "amount" : "mismatch",
             "fallbackReason" : "The parser couldn't read the total with confidence.",
             "merchant" : "unread",
             "note" : "",
             "overridden" : false,
-            "parsedTotal" : 916383282637,
+            "parsedTotal" : 11457866363,
             "source" : "on-device",
             "status" : "unverified",
-            "summary" : "Invoice total ₹9,16,38,32,82,637 vs payment ₹198",
+            "summary" : "Invoice total ₹11,45,78,66,363 vs payment ₹198",
             "time" : "unread"
           }
         }
