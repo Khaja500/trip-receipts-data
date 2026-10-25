@@ -1,5 +1,5 @@
 {
-  "generatedAt" : "2026-10-25T14:45:03Z",
+  "generatedAt" : "2026-10-25T22:13:09Z",
   "payments" : [
     {
       "additionalMessages" : [
@@ -25,8 +25,9 @@
       "receivedAt" : "2026-10-25T14:45:03Z",
       "reference" : "629887510877",
       "refundedAmount" : 0,
+      "reviewedAt" : "2026-10-25T22:13:06Z",
       "sender" : "",
-      "status" : "pending",
+      "status" : "personal",
       "uid" : "5B8AE51A-4BCE-4DFF-BB9F-5C07C7C2FDE8"
     },
     {
@@ -53,8 +54,9 @@
       "receivedAt" : "2026-10-25T14:13:04Z",
       "reference" : "629887101466",
       "refundedAmount" : 0,
+      "reviewedAt" : "2026-10-25T22:13:07Z",
       "sender" : "",
-      "status" : "pending",
+      "status" : "personal",
       "uid" : "0EA2241E-4F6A-4DDB-BE87-4C624B05CB1A"
     },
     {
