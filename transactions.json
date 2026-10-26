@@ -1,5 +1,5 @@
 {
-  "generatedAt" : "2026-10-26T05:41:37Z",
+  "generatedAt" : "2026-10-26T05:42:42Z",
   "payments" : [
     {
       "additionalMessages" : [
@@ -159,7 +159,7 @@
       "messageHash" : "2f1414faa1b7762c4bf15a343dc881dc34219933604ff6d9ccf9dd55e5e87ca8",
       "netClaimable" : 203.07,
       "notes" : "",
-      "paidAt" : "2026-10-22T18:30:00Z",
+      "paidAt" : "2026-10-20T18:30:00Z",
       "parseConfidence" : 1,
       "rawMessage" : "ICICIT-S\nICICI Bank Acct XX006 debited for Rs 203.07 on 23-Oct-26; Zomato credited. UPI:629625313153. Call 18002662 for dispute. SMS BLOCK 006 to 9215676766.",
       "receipts" : [
@@ -180,8 +180,8 @@
             "parsedTotal" : 17.69,
             "source" : "online",
             "status" : "warning",
-            "summary" : "Invoice total ₹17.69 vs payment ₹203.07; invoice from Empire Restaurant vs payment to Zomato",
-            "time" : "match"
+            "summary" : "Invoice total ₹17.69 vs payment ₹203.07; invoice dated 23 Oct vs payment 21 Oct; invoice from Empire Restaurant vs payment to Zomato",
+            "time" : "mismatch"
           }
         }
       ],
@@ -191,7 +191,7 @@
       "reviewedAt" : "2026-10-23T13:59:46Z",
       "sender" : "",
       "status" : "work",
-      "tripID" : "1792828338867",
+      "tripID" : "1792668396553",
       "uid" : "017F3B56-7261-406A-964E-A0B034E8EE88"
     },
     {
