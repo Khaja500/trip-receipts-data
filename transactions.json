@@ -1,5 +1,5 @@
 {
-  "generatedAt" : "2026-10-26T05:42:42Z",
+  "generatedAt" : "2026-10-26T05:43:34Z",
   "payments" : [
     {
       "additionalMessages" : [
@@ -188,10 +188,8 @@
       "receivedAt" : "2026-10-23T09:54:22Z",
       "reference" : "629625313153",
       "refundedAmount" : 0,
-      "reviewedAt" : "2026-10-23T13:59:46Z",
       "sender" : "",
-      "status" : "work",
-      "tripID" : "1792668396553",
+      "status" : "pending",
       "uid" : "017F3B56-7261-406A-964E-A0B034E8EE88"
     },
     {
