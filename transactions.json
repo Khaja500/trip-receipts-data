@@ -1,6 +1,34 @@
 {
-  "generatedAt" : "2026-10-26T08:36:32Z",
+  "generatedAt" : "2026-10-26T15:08:22Z",
   "payments" : [
+    {
+      "additionalMessages" : [
+
+      ],
+      "amount" : 239,
+      "bank" : "ICICI Bank",
+      "category" : "meals",
+      "claimableAmount" : 239,
+      "currency" : "INR",
+      "instrument" : "UPI · A/c ••006",
+      "isManual" : false,
+      "merchant" : "Swiggy Instamar",
+      "messageHash" : "de8116598bcfbf7542959e03cdf4506e8fd5318f7b0db8f735a25b6eaa0bf9f5",
+      "netClaimable" : 239,
+      "notes" : "",
+      "paidAt" : "2026-10-25T18:30:00Z",
+      "parseConfidence" : 1,
+      "rawMessage" : "ICICIT-S\nICICI Bank Acct XX006 debited for Rs 239.00 on 26-Oct-26; SWIGGY INSTAMAR credited. UPI:666584310223. Call 18002662 for dispute. SMS BLOCK 006 to 9215676766.",
+      "receipts" : [
+
+      ],
+      "receivedAt" : "2026-10-26T15:08:22Z",
+      "reference" : "666584310223",
+      "refundedAmount" : 0,
+      "sender" : "",
+      "status" : "pending",
+      "uid" : "0696F9C0-9A86-45D9-9745-B8342FCD3636"
+    },
     {
       "additionalMessages" : [
 
