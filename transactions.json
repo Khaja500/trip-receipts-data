@@ -1,6 +1,34 @@
 {
-  "generatedAt" : "2026-10-26T15:08:22Z",
+  "generatedAt" : "2026-10-27T06:17:56Z",
   "payments" : [
+    {
+      "additionalMessages" : [
+
+      ],
+      "amount" : 1173.6,
+      "bank" : "ICICI Bank",
+      "category" : "other",
+      "claimableAmount" : 1173.6,
+      "currency" : "INR",
+      "instrument" : "UPI · A/c ••006",
+      "isManual" : false,
+      "merchant" : "WEB",
+      "messageHash" : "3257f41304bbc990f8c5559875d4e5fb5caa684a16bb85cb83cd6e33df9e822f",
+      "netClaimable" : 1173.6,
+      "notes" : "",
+      "paidAt" : "2026-10-26T18:30:00Z",
+      "parseConfidence" : 1,
+      "rawMessage" : "ICICIT-S\nICICI Bank Acct XX006 debited for Rs 1173.60 on 27-Oct-26; WEB UPI credited. UPI:666697631492. Call 18002662 for dispute. SMS BLOCK 006 to 9215676766.",
+      "receipts" : [
+
+      ],
+      "receivedAt" : "2026-10-27T06:17:56Z",
+      "reference" : "666697631492",
+      "refundedAmount" : 0,
+      "sender" : "",
+      "status" : "pending",
+      "uid" : "D45CED43-3A89-4C40-B5C8-FD9CC858659F"
+    },
     {
       "additionalMessages" : [
 
