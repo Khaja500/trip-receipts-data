@@ -1,5 +1,5 @@
 {
-  "generatedAt" : "2026-10-27T07:05:00Z",
+  "generatedAt" : "2026-10-27T07:05:29Z",
   "payments" : [
     {
       "additionalMessages" : [
@@ -55,8 +55,9 @@
       "receivedAt" : "2026-10-26T15:08:22Z",
       "reference" : "666584310223",
       "refundedAmount" : 0,
+      "reviewedAt" : "2026-10-27T07:05:27Z",
       "sender" : "",
-      "status" : "pending",
+      "status" : "personal",
       "uid" : "0696F9C0-9A86-45D9-9745-B8342FCD3636"
     },
     {
