@@ -1,6 +1,34 @@
 {
-  "generatedAt" : "2026-10-28T05:48:05Z",
+  "generatedAt" : "2026-10-28T10:16:09Z",
   "payments" : [
+    {
+      "additionalMessages" : [
+
+      ],
+      "amount" : 39.2,
+      "bank" : "ICICI Bank",
+      "category" : "other",
+      "claimableAmount" : 39.2,
+      "currency" : "INR",
+      "instrument" : "UPI · A/c ••006",
+      "isManual" : false,
+      "merchant" : "Vendx",
+      "messageHash" : "21d76ee22ce035dee3effd9370d6adf90780c660a8143272033ebe375bfede3b",
+      "netClaimable" : 39.2,
+      "notes" : "",
+      "paidAt" : "2026-10-27T18:30:00Z",
+      "parseConfidence" : 1,
+      "rawMessage" : "ICICIT-S\nICICI Bank Acct XX006 debited for Rs 39.20 on 28-Oct-26; VENDX credited. UPI:630109629141. Call 18002662 for dispute. SMS BLOCK 006 to 9215676766.",
+      "receipts" : [
+
+      ],
+      "receivedAt" : "2026-10-28T10:16:08Z",
+      "reference" : "630109629141",
+      "refundedAmount" : 0,
+      "sender" : "",
+      "status" : "pending",
+      "uid" : "A4ED34F5-594C-414F-B9B3-F47E07347F22"
+    },
     {
       "additionalMessages" : [
 
