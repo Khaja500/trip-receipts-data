@@ -1,6 +1,34 @@
 {
-  "generatedAt" : "2026-10-28T15:06:06Z",
+  "generatedAt" : "2026-10-28T15:40:58Z",
   "payments" : [
+    {
+      "additionalMessages" : [
+
+      ],
+      "amount" : 180,
+      "bank" : "ICICI Bank",
+      "category" : "other",
+      "claimableAmount" : 180,
+      "currency" : "INR",
+      "instrument" : "UPI · A/c ••006",
+      "isManual" : false,
+      "merchant" : "Frank Ross Phar",
+      "messageHash" : "27906cca24567b064ad0d1b8ffbe8a23a734836185b0459f649a659f87340bd4",
+      "netClaimable" : 180,
+      "notes" : "",
+      "paidAt" : "2026-10-27T18:30:00Z",
+      "parseConfidence" : 1,
+      "rawMessage" : "ICICIT-S\nICICI Bank Acct XX006 debited for Rs 180.00 on 28-Oct-26; FRANK ROSS PHAR credited. UPI:630138283119. Call 18002662 for dispute. SMS BLOCK 006 to 9215676766.",
+      "receipts" : [
+
+      ],
+      "receivedAt" : "2026-10-28T15:40:58Z",
+      "reference" : "630138283119",
+      "refundedAmount" : 0,
+      "sender" : "",
+      "status" : "pending",
+      "uid" : "5B6CAD27-68C5-4F0F-8D26-0B6673521936"
+    },
     {
       "additionalMessages" : [
 
