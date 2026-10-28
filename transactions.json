@@ -1,5 +1,5 @@
 {
-  "generatedAt" : "2026-10-28T15:05:58Z",
+  "generatedAt" : "2026-10-28T15:06:06Z",
   "payments" : [
     {
       "additionalMessages" : [
@@ -368,64 +368,6 @@
       "status" : "work",
       "tripID" : "1792668396553",
       "uid" : "47880349-EEEA-44B7-BFF1-FBFC0F46CEEA"
-    },
-    {
-      "additionalMessages" : [
-
-      ],
-      "amount" : 1,
-      "bank" : "ICICI Bank",
-      "category" : "other",
-      "claimableAmount" : 1,
-      "currency" : "INR",
-      "instrument" : "UPI · A/c ••006",
-      "isManual" : false,
-      "merchant" : "A Noore Jasmi",
-      "messageHash" : "c3b9dee4706b4994d210c05238da0412bbd0911fd107b87c7eca59e996a682c1",
-      "netClaimable" : 1,
-      "notes" : "",
-      "paidAt" : "2026-10-20T18:30:00Z",
-      "parseConfidence" : 1,
-      "rawMessage" : "ICICIT-S\nICICI Bank Acct XX006 debited for Rs 1.00 on 21-Oct-26; A NOORE JASMI credited. UPI:629437455416. Call 18002662 for dispute. SMS BLOCK 006 to 9215676766.",
-      "receipts" : [
-
-      ],
-      "receivedAt" : "2026-10-21T13:14:51Z",
-      "reference" : "629437455416",
-      "refundedAmount" : 0,
-      "reviewedAt" : "2026-10-21T13:15:08Z",
-      "sender" : "",
-      "status" : "personal",
-      "uid" : "E3C6FE74-6235-42CB-8EC4-14A846EABCC9"
-    },
-    {
-      "additionalMessages" : [
-
-      ],
-      "amount" : 5,
-      "bank" : "ICICI Bank",
-      "category" : "other",
-      "claimableAmount" : 5,
-      "currency" : "INR",
-      "instrument" : "UPI · A/c ••006",
-      "isManual" : false,
-      "merchant" : "A Noore Jasmi",
-      "messageHash" : "245c90ff4ddaea052a3e7e5ce41e2ad03a23f7d16977ce821a33319e864c39a9",
-      "netClaimable" : 5,
-      "notes" : "",
-      "paidAt" : "2026-10-17T18:30:00Z",
-      "parseConfidence" : 1,
-      "rawMessage" : "ICICI Bank Acct XX006 debited for Rs 5.00 on 18-Oct-26; A NOORE JASMI credited. UPI:665775390351. Call 18002662 for dispute. SMS BLOCK 006 to 9215676766",
-      "receipts" : [
-
-      ],
-      "receivedAt" : "2026-10-18T12:28:17Z",
-      "reference" : "665775390351",
-      "refundedAmount" : 0,
-      "reviewedAt" : "2026-10-21T13:15:13Z",
-      "sender" : "",
-      "status" : "personal",
-      "uid" : "5090A64F-AA44-41B8-A729-2190E9F0C607"
     },
     {
       "additionalMessages" : [
