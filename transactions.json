@@ -1,35 +1,6 @@
 {
-  "generatedAt" : "2026-10-28T15:05:53Z",
+  "generatedAt" : "2026-10-28T15:05:58Z",
   "payments" : [
-    {
-      "additionalMessages" : [
-
-      ],
-      "amount" : 39.2,
-      "bank" : "ICICI Bank",
-      "category" : "other",
-      "claimableAmount" : 39.2,
-      "currency" : "INR",
-      "instrument" : "UPI · A/c ••006",
-      "isManual" : false,
-      "merchant" : "Vendx",
-      "messageHash" : "a52a840247c41f9809dc5de5a3e165149dfa4679ab875e88d12a92ec1853a172",
-      "netClaimable" : 39.2,
-      "notes" : "",
-      "paidAt" : "2026-10-26T18:30:00Z",
-      "parseConfidence" : 1,
-      "rawMessage" : "ICICIT-S\nICICI Bank Acct XX006 debited for Rs 39.20 on 27-Oct-26; VENDX credited. UPI:666672263533. Call 18002662 for dispute. SMS BLOCK 006 to 9215676766.",
-      "receipts" : [
-
-      ],
-      "receivedAt" : "2026-10-27T08:39:23Z",
-      "reference" : "666672263533",
-      "refundedAmount" : 0,
-      "reviewedAt" : "2026-10-27T12:55:49Z",
-      "sender" : "",
-      "status" : "personal",
-      "uid" : "8458BB7E-A1C4-4C64-9054-27AC83685252"
-    },
     {
       "additionalMessages" : [
 
@@ -59,35 +30,6 @@
       "status" : "work",
       "tripID" : "1792828338867",
       "uid" : "D45CED43-3A89-4C40-B5C8-FD9CC858659F"
-    },
-    {
-      "additionalMessages" : [
-
-      ],
-      "amount" : 239,
-      "bank" : "ICICI Bank",
-      "category" : "meals",
-      "claimableAmount" : 239,
-      "currency" : "INR",
-      "instrument" : "UPI · A/c ••006",
-      "isManual" : false,
-      "merchant" : "Swiggy Instamar",
-      "messageHash" : "de8116598bcfbf7542959e03cdf4506e8fd5318f7b0db8f735a25b6eaa0bf9f5",
-      "netClaimable" : 239,
-      "notes" : "",
-      "paidAt" : "2026-10-25T18:30:00Z",
-      "parseConfidence" : 1,
-      "rawMessage" : "ICICIT-S\nICICI Bank Acct XX006 debited for Rs 239.00 on 26-Oct-26; SWIGGY INSTAMAR credited. UPI:666584310223. Call 18002662 for dispute. SMS BLOCK 006 to 9215676766.",
-      "receipts" : [
-
-      ],
-      "receivedAt" : "2026-10-26T15:08:22Z",
-      "reference" : "666584310223",
-      "refundedAmount" : 0,
-      "reviewedAt" : "2026-10-27T07:05:27Z",
-      "sender" : "",
-      "status" : "personal",
-      "uid" : "0696F9C0-9A86-45D9-9745-B8342FCD3636"
     },
     {
       "additionalMessages" : [
