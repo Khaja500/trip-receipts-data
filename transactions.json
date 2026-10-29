@@ -1,35 +1,6 @@
 {
-  "generatedAt" : "2026-10-29T08:22:39Z",
+  "generatedAt" : "2026-10-29T08:22:45Z",
   "payments" : [
-    {
-      "additionalMessages" : [
-
-      ],
-      "amount" : 1578,
-      "bank" : "HDFC Bank",
-      "category" : "cab",
-      "claimableAmount" : 1578,
-      "currency" : "INR",
-      "instrument" : "UPI · A/c ••1234",
-      "isManual" : false,
-      "merchant" : "Uber India",
-      "messageHash" : "ccad3a46c4981f9adbc90a40c65a1046316392800a3366527d61ca78b279eb01",
-      "netClaimable" : 1578,
-      "notes" : "",
-      "paidAt" : "2026-10-28T18:30:00Z",
-      "parseConfidence" : 1,
-      "rawMessage" : "Sent Rs.1578.00 From HDFC Bank A/C x1234 To UBER INDIA On 29/10/26 Ref 769203816359 Not You? Call 18002586161",
-      "receipts" : [
-
-      ],
-      "receivedAt" : "2026-10-29T08:22:31Z",
-      "reference" : "769203816359",
-      "refundedAmount" : 0,
-      "reviewedAt" : "2026-10-29T08:22:37Z",
-      "sender" : "AD-HDFCBK",
-      "status" : "personal",
-      "uid" : "F8C60C03-AB78-49BA-A206-4CACD1FB9430"
-    },
     {
       "additionalMessages" : [
 
