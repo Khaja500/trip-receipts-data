@@ -1,5 +1,5 @@
 {
-  "generatedAt" : "2026-10-29T08:57:35Z",
+  "generatedAt" : "2026-10-29T08:57:39Z",
   "payments" : [
     {
       "additionalMessages" : [
@@ -87,35 +87,6 @@
       "sender" : "",
       "status" : "pending",
       "uid" : "0EA2241E-4F6A-4DDB-BE87-4C624B05CB1A"
-    },
-    {
-      "additionalMessages" : [
-
-      ],
-      "amount" : 50,
-      "bank" : "ICICI Bank",
-      "category" : "other",
-      "claimableAmount" : 50,
-      "currency" : "INR",
-      "instrument" : "UPI · A/c ••006",
-      "isManual" : false,
-      "merchant" : "M Muniraj",
-      "messageHash" : "b1277668d9b944014c03ec185557cca6b94a37a4fce3aa37e7cc6bcb1f225c14",
-      "netClaimable" : 50,
-      "notes" : "",
-      "paidAt" : "2026-10-22T18:30:00Z",
-      "parseConfidence" : 1,
-      "rawMessage" : "ICICIT-S\nICICI Bank Acct XX006 debited for Rs 50.00 on 23-Oct-26; M Muniraj credited. UPI:629617700570. Call 18002662 for dispute. SMS BLOCK 006 to 9215676766.",
-      "receipts" : [
-
-      ],
-      "receivedAt" : "2026-10-23T10:07:18Z",
-      "reference" : "629617700570",
-      "refundedAmount" : 0,
-      "reviewedAt" : "2026-10-23T13:59:42Z",
-      "sender" : "",
-      "status" : "personal",
-      "uid" : "67E0D2FE-E30D-45CC-B747-D99854D774C5"
     },
     {
       "additionalMessages" : [
