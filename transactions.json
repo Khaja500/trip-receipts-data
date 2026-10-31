@@ -1,6 +1,34 @@
 {
-  "generatedAt" : "2026-10-31T07:33:00Z",
+  "generatedAt" : "2026-10-31T16:58:48Z",
   "payments" : [
+    {
+      "additionalMessages" : [
+
+      ],
+      "amount" : 105,
+      "bank" : "ICICI Bank",
+      "category" : "other",
+      "claimableAmount" : 105,
+      "currency" : "INR",
+      "instrument" : "UPI · A/c ••006",
+      "isManual" : false,
+      "merchant" : "Sri Sagar Samra",
+      "messageHash" : "3ba141b7b4621c8e55b8ff2f5c045de72b1cd465d74d4e712e05594dfb9ad9f9",
+      "netClaimable" : 105,
+      "notes" : "",
+      "paidAt" : "2026-10-30T18:30:00Z",
+      "parseConfidence" : 1,
+      "rawMessage" : "ICICIT-S\nICICI Bank Acct XX006 debited for Rs 105.00 on 31-Oct-26; SRI SAGAR SAMRA credited. UPI:667064255771. Call 18002662 for dispute. SMS BLOCK 006 to 9215676766.",
+      "receipts" : [
+
+      ],
+      "receivedAt" : "2026-10-31T16:58:47Z",
+      "reference" : "667064255771",
+      "refundedAmount" : 0,
+      "sender" : "",
+      "status" : "pending",
+      "uid" : "A75208F2-CC2F-4D64-8850-C943FFBAE89F"
+    },
     {
       "additionalMessages" : [
 
